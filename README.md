@@ -186,6 +186,3 @@ A hosted endpoint is also included by default:
 - Add model versioning and CI checks
 - Add Docker support for easier deployment
 
-## License
-
-Add a license of your choice (MIT/Apache-2.0/GPL, etc.).
